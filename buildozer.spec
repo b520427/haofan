@@ -12,7 +12,6 @@ osx.kivy_version = 2.1.0
 fullscreen = 0
 android.api = 33
 android.ndk = 25b
-android.sdk = 24
 android.buildtools = 33.0.0
 android.arch = arm64-v8a
 android.apptheme = @android:style/Theme.Material.Light.NoActionBar
